@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.18d08188.css",
-    "main.js": "/static/js/main.e33e55f1.js",
+    "main.js": "/static/js/main.8f528dc2.js",
     "static/js/453.a7e53cfa.chunk.js": "/static/js/453.a7e53cfa.chunk.js",
     "static/media/Inter.ttf": "/static/media/Inter.e05c5f3d1fa6a3893d84.ttf",
     "static/media/event-image.png": "/static/media/event-image.9608b38a8ad833b4b5fa.png",
     "static/media/5.png": "/static/media/5.ed51a442756aa56a0a30.png",
+    "static/media/product.png": "/static/media/product.7e583433fb7aedfe4c15.png",
     "static/media/4.png": "/static/media/4.f811ae8ded4f5b7ca207.png",
     "static/media/sbp-icon.svg": "/static/media/sbp-icon.297635b7b512f5d2d96e4e93e3b5b225.svg",
     "static/media/3.png": "/static/media/3.60fcf4f5622af25c1cf2.png",
@@ -70,11 +71,11 @@
     "static/media/arrow.svg": "/static/media/arrow.f2282b3485b71cef41f6340398b83437.svg",
     "static/media/burger-icon.svg": "/static/media/burger-icon.a7eff884ad3e554b8a1f16b7fd1ee3fe.svg",
     "main.18d08188.css.map": "/static/css/main.18d08188.css.map",
-    "main.e33e55f1.js.map": "/static/js/main.e33e55f1.js.map",
+    "main.8f528dc2.js.map": "/static/js/main.8f528dc2.js.map",
     "453.a7e53cfa.chunk.js.map": "/static/js/453.a7e53cfa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18d08188.css",
-    "static/js/main.e33e55f1.js"
+    "static/js/main.8f528dc2.js"
   ]
 }
